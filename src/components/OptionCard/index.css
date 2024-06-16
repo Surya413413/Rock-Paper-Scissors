@@ -1,0 +1,15 @@
+.image-edit {
+  width: 150px;
+  height: 150px;
+}
+.three-buttons-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.three-button {
+  cursor: pointer;
+  margin: 10px;
+  background-color: transparent;
+  border-width: 0px;
+}
